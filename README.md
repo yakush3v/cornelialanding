@@ -1,2 +1,1 @@
-# cornelialanding
-Cornelia landing page (HTML/CSS)
+# Cornelia landing page (чистые HTML/CSS)
